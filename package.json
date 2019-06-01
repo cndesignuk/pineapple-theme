@@ -1,0 +1,15 @@
+{
+    "name": "cndesignuk.pineapple",
+    "title": "Pineapple",
+    "description": "A pineapple not only has pleasing colours, it is delicious",
+    "homepage": "https://github.com/cndesignuk/pineapple-theme",
+    "version": "1.0.0",
+    "author": "cndesignuk (https://github.com/cndesignuk)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
